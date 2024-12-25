@@ -5,126 +5,6 @@
       "PackagePath": "staticwebassets\\ProductStore(MVC).bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product1.jpg",
-      "PackagePath": "staticwebassets\\Images\\product1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product10.jpg",
-      "PackagePath": "staticwebassets\\Images\\product10.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product11.jpg",
-      "PackagePath": "staticwebassets\\Images\\product11.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product12.jpg",
-      "PackagePath": "staticwebassets\\Images\\product12.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product13.jpg",
-      "PackagePath": "staticwebassets\\Images\\product13.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product14.jpg",
-      "PackagePath": "staticwebassets\\Images\\product14.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product15.jpg",
-      "PackagePath": "staticwebassets\\Images\\product15.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product16.jpg",
-      "PackagePath": "staticwebassets\\Images\\product16.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product17.jpg",
-      "PackagePath": "staticwebassets\\Images\\product17.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product18.jpg",
-      "PackagePath": "staticwebassets\\Images\\product18.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product19.jpg",
-      "PackagePath": "staticwebassets\\Images\\product19.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product2.jpg",
-      "PackagePath": "staticwebassets\\Images\\product2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product20.jpg",
-      "PackagePath": "staticwebassets\\Images\\product20.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product21.jpg",
-      "PackagePath": "staticwebassets\\Images\\product21.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product22.jpg",
-      "PackagePath": "staticwebassets\\Images\\product22.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product23.jpg",
-      "PackagePath": "staticwebassets\\Images\\product23.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product24.jpg",
-      "PackagePath": "staticwebassets\\Images\\product24.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product25.jpg",
-      "PackagePath": "staticwebassets\\Images\\product25.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product26.jpg",
-      "PackagePath": "staticwebassets\\Images\\product26.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product27.jpg",
-      "PackagePath": "staticwebassets\\Images\\product27.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product28.jpg",
-      "PackagePath": "staticwebassets\\Images\\product28.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product29.jpg",
-      "PackagePath": "staticwebassets\\Images\\product29.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product3.jpg",
-      "PackagePath": "staticwebassets\\Images\\product3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product30.jpg",
-      "PackagePath": "staticwebassets\\Images\\product30.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product4.jpg",
-      "PackagePath": "staticwebassets\\Images\\product4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product5.jpg",
-      "PackagePath": "staticwebassets\\Images\\product5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product6.jpg",
-      "PackagePath": "staticwebassets\\Images\\product6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product7.jpg",
-      "PackagePath": "staticwebassets\\Images\\product7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product8.jpg",
-      "PackagePath": "staticwebassets\\Images\\product8.jpg"
-    },
-    {
-      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product9.jpg",
-      "PackagePath": "staticwebassets\\Images\\product9.jpg"
-    },
-    {
       "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Products\\product1.png",
       "PackagePath": "staticwebassets\\Products\\product1.png"
     },
@@ -215,6 +95,126 @@
     {
       "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product10.jpg",
+      "PackagePath": "staticwebassets\\images\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product11.jpg",
+      "PackagePath": "staticwebassets\\images\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product12.jpg",
+      "PackagePath": "staticwebassets\\images\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product13.jpg",
+      "PackagePath": "staticwebassets\\images\\product13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product14.jpg",
+      "PackagePath": "staticwebassets\\images\\product14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product15.jpg",
+      "PackagePath": "staticwebassets\\images\\product15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product16.jpg",
+      "PackagePath": "staticwebassets\\images\\product16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product17.jpg",
+      "PackagePath": "staticwebassets\\images\\product17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product18.jpg",
+      "PackagePath": "staticwebassets\\images\\product18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product19.jpg",
+      "PackagePath": "staticwebassets\\images\\product19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product20.jpg",
+      "PackagePath": "staticwebassets\\images\\product20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product21.jpg",
+      "PackagePath": "staticwebassets\\images\\product21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product22.jpg",
+      "PackagePath": "staticwebassets\\images\\product22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product23.jpg",
+      "PackagePath": "staticwebassets\\images\\product23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product24.jpg",
+      "PackagePath": "staticwebassets\\images\\product24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product25.jpg",
+      "PackagePath": "staticwebassets\\images\\product25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product26.jpg",
+      "PackagePath": "staticwebassets\\images\\product26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product27.jpg",
+      "PackagePath": "staticwebassets\\images\\product27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product28.jpg",
+      "PackagePath": "staticwebassets\\images\\product28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product29.jpg",
+      "PackagePath": "staticwebassets\\images\\product29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product3.jpg",
+      "PackagePath": "staticwebassets\\images\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product30.jpg",
+      "PackagePath": "staticwebassets\\images\\product30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product4.jpg",
+      "PackagePath": "staticwebassets\\images\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product5.jpg",
+      "PackagePath": "staticwebassets\\images\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product6.jpg",
+      "PackagePath": "staticwebassets\\images\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product7.jpg",
+      "PackagePath": "staticwebassets\\images\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product8.jpg",
+      "PackagePath": "staticwebassets\\images\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product9.jpg",
+      "PackagePath": "staticwebassets\\images\\product9.jpg"
     },
     {
       "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\js\\site.js",

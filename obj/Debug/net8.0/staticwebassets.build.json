@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4xIDOTDHSRXuc9gLEJAxMQbNYEZWjqqLtbovHjD3mrY=",
+  "Hash": "VHyw46tSBQRIi4mIQAlGVLtsMghd1l6CnZq9plj6HBo=",
   "Source": "ProductStore(MVC)",
   "BasePath": "_content/ProductStore(MVC)",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product1.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product1.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product1.jpg",
+      "RelativePath": "images/product1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product1.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product10.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product10.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product10.jpg",
+      "RelativePath": "images/product10.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product10.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product10.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product11.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product11.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product11.jpg",
+      "RelativePath": "images/product11.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product11.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product11.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product12.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product12.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product12.jpg",
+      "RelativePath": "images/product12.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product12.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product12.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product13.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product13.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product13.jpg",
+      "RelativePath": "images/product13.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product13.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product13.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product14.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product14.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product14.jpg",
+      "RelativePath": "images/product14.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product14.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product14.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product15.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product15.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product15.jpg",
+      "RelativePath": "images/product15.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product15.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product15.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product16.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product16.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product16.jpg",
+      "RelativePath": "images/product16.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product16.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product16.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product17.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product17.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product17.jpg",
+      "RelativePath": "images/product17.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product17.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product17.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product18.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product18.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product18.jpg",
+      "RelativePath": "images/product18.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product18.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product18.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product19.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product19.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product19.jpg",
+      "RelativePath": "images/product19.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product19.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product19.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product2.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product2.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product2.jpg",
+      "RelativePath": "images/product2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,15 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product2.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product20.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product20.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product20.jpg",
+      "RelativePath": "images/product20.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product20.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product20.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product21.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product21.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product21.jpg",
+      "RelativePath": "images/product21.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product21.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product21.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product22.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product22.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product22.jpg",
+      "RelativePath": "images/product22.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product22.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product22.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product23.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product23.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product23.jpg",
+      "RelativePath": "images/product23.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product23.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product23.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product24.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product24.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product24.jpg",
+      "RelativePath": "images/product24.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product24.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product24.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product25.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product25.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product25.jpg",
+      "RelativePath": "images/product25.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product25.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product25.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product26.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product26.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product26.jpg",
+      "RelativePath": "images/product26.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product26.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product26.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product27.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product27.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product27.jpg",
+      "RelativePath": "images/product27.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product27.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product27.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product28.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product28.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product28.jpg",
+      "RelativePath": "images/product28.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product28.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product28.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product29.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product29.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product29.jpg",
+      "RelativePath": "images/product29.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product29.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product29.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product3.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product3.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product3.jpg",
+      "RelativePath": "images/product3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -527,15 +527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product3.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product30.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product30.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product30.jpg",
+      "RelativePath": "images/product30.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product30.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product30.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product4.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product4.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product4.jpg",
+      "RelativePath": "images/product4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product4.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product5.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product5.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product5.jpg",
+      "RelativePath": "images/product5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product5.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product5.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product6.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product6.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product6.jpg",
+      "RelativePath": "images/product6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,15 +603,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product6.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product6.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product7.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product7.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product7.jpg",
+      "RelativePath": "images/product7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -622,15 +622,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product7.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product7.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product8.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product8.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product8.jpg",
+      "RelativePath": "images/product8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -641,15 +641,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product8.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product8.jpg"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\Images\\product9.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product9.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "Images/product9.jpg",
+      "RelativePath": "images/product9.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,7 +660,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\product9.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product9.jpg"
     },
     {
       "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\js\\site.js",
