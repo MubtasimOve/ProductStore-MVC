@@ -26,6 +26,7 @@ namespace ProductStore_MVC_.Controllers
         {
             return View();
         }
+
         [HttpPost]
         public IActionResult Create(ProductDto productDto)
         {
@@ -44,7 +45,7 @@ namespace ProductStore_MVC_.Controllers
             newFileName += Path.GetExtension(productDto.ImageFile!.FileName);
 
             string imageFullPath = environment.WebRootPath + "/images/" + newFileName;
-            using (var stream = System.IO.File.OpenWrite(imageFullPath))
+            using (var stream = System.IO.File.Create(imageFullPath))
             {
                 productDto.ImageFile.CopyTo(stream);
             }
@@ -119,8 +120,7 @@ namespace ProductStore_MVC_.Controllers
             //Isses
             //update the image file if we have a new image file
             string newFileName= product.ImageFileName;
-
-            if(productDto.ImageFile != null)
+            if (productDto.ImageFile != null)
             {
                 newFileName = DateTime.Now.ToString("yyyyMMddHHmmssfff");
                 newFileName += Path.GetExtension(productDto.ImageFile.FileName);

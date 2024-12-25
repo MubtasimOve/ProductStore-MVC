@@ -5,6 +5,7 @@ namespace ProductStore_MVC_.Models
 {
     public class Product
     {
+       
 
         public int Id { get; set; }
         [MaxLength(100)]
@@ -19,6 +20,7 @@ namespace ProductStore_MVC_.Models
         public string Description { get; set; } = "";
         [MaxLength(100)]
         public string ImageFileName { get; set; } = "";
+
         public DateTime CreatedAt { get; set; }
 
     }
