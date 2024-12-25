@@ -116,7 +116,7 @@ namespace ProductStore_MVC_.Controllers
                 return View(productDto);
             }
         
-
+            //Isses
             //update the image file if we have a new image file
             string newFileName= product.ImageFileName;
 
