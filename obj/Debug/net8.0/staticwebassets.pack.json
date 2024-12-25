@@ -97,6 +97,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\20241226010702863.jpg",
+      "PackagePath": "staticwebassets\\images\\20241226010702863.jpg"
+    },
+    {
       "Id": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product1.jpg",
       "PackagePath": "staticwebassets\\images\\product1.jpg"
     },
