@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pAtQtFGI0u5uKws0jV+5t2ubxec0sfn/0AGzp0h3H8Q=",
+  "Hash": "n7NuVzC81YJ3zJwd8SjNX50OcuTYdAP9Dqkvwi7t0Fo=",
   "Source": "ProductStore(MVC)",
   "BasePath": "_content/ProductStore(MVC)",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\20241226010702863.jpg",
+      "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\20241226035954098.jpg",
       "SourceId": "ProductStore(MVC)",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\",
       "BasePath": "_content/ProductStore(MVC)",
-      "RelativePath": "images/20241226010702863.jpg",
+      "RelativePath": "images/20241226035954098.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\20241226010702863.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\20241226035954098.jpg"
     },
     {
       "Identity": "C:\\Users\\mubta\\source\\repos\\ProductStore(MVC)\\ProductStore(MVC)\\wwwroot\\images\\product1.jpg",

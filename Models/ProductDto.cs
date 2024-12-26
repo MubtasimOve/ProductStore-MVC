@@ -14,6 +14,7 @@ namespace ProductStore_MVC_.Models
         public decimal Price { get; set; }
         [Required]
         public string Description { get; set; } = "";
+        
         public IFormFile? ImageFile { get; set; } 
     }
 }
