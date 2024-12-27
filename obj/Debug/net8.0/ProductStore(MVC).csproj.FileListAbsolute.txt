@@ -167,3 +167,13 @@ C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0
 C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\obj\Debug\net8.0\ProductStore(MVC).csproj.AssemblyReference.cache
 C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\obj\Debug\net8.0\ProductS.2F2071F9.Up2Date
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mubta\source\repos\ProductStore(MVC)\ProductStore(MVC)\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
